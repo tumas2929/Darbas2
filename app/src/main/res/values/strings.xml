@@ -3,7 +3,7 @@
 
     <string name="hint_input_text">Tekstas</string>
     <string name="btn_count">Skaičiuoti</string>
-    <string name="result_placeholder">Rezultatas:a</string>
+    <string name="result_placeholder">Rezultatas:</string>
     <string name="msg_empty_input">Įveskite tekstą</string>
 
     <string name="count_type_words">Žodžiai</string>
