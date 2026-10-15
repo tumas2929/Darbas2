@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Darbas 2</string>
+
+    <string name="hint_input_text">Tekstas</string>
+    <string name="btn_count">Skaičiuoti</string>
+    <string name="result_placeholder">Rezultatas:a</string>
+    <string name="msg_empty_input">Įveskite tekstą</string>
+
+    <string name="count_type_words">Žodžiai</string>
+    <string name="count_type_characters">Raidės</string>
+
+    <string name="result_words">Žodžių skaičius: %1$d</string>
+    <string name="result_characters">Raidžių skaičius: %1$d</string>
+
+    <string-array name="count_types">
+        <item>@string/count_type_words</item>
+        <item>@string/count_type_characters</item>
+    </string-array>
 </resources>
